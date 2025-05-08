@@ -16,11 +16,11 @@ are found in the package **scala.collection.mutable**
 
 ### Immutable Collection hierarchy
 
-![collections-diagram](https://raw.githubusercontent.com/DataMonk15/ScalaLearning/main/src/main/Images/collections-immutable.png)
+![immutable-collections-diagram](https://raw.githubusercontent.com/DataMonk15/ScalaLearning/main/src/main/Images/collections-immutable.png)
 
 ### Mutable Collection hierarchy
 
-![collections-diagram](https://raw.githubusercontent.com/DataMonk15/ScalaLearning/main/src/main/Images/collections-mutable.png)
+![mutable-collections-diagram](https://raw.githubusercontent.com/DataMonk15/ScalaLearning/main/src/main/Images/collections-mutable.png)
 
 
 
