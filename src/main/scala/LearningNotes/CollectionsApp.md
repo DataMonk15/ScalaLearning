@@ -12,7 +12,9 @@ are found in the package **scala.collection.mutable**
 
 ### Collection hierarchy
 
-![collections-diagram](https://raw.githubusercontent.com/DataMonk15/ScalaLearning/main/src/main/Images/collections-diagram.png)
+![collections-diagram](src/main/Images/collections.png)
+
+
 
 
 
