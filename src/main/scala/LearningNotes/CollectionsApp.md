@@ -14,6 +14,14 @@ are found in the package **scala.collection.mutable**
 
 ![collections-diagram](https://raw.githubusercontent.com/DataMonk15/ScalaLearning/main/src/main/Images/collections.png)
 
+### Immutable Collection hierarchy
+
+![collections-diagram](https://raw.githubusercontent.com/DataMonk15/ScalaLearning/main/src/main/Images/collections-immutable.png)
+
+### Mutable Collection hierarchy
+
+![collections-diagram](https://raw.githubusercontent.com/DataMonk15/ScalaLearning/main/src/main/Images/collections-mutable.png)
+
 
 
 
