@@ -43,6 +43,7 @@ val name:String = "Naveen"
 There are 2 ways to create an integer as shown below
 
 val input = 42 // Implicit data type detection by scala
+
 val input:Int = 42 // explicit data type declaration
 
 

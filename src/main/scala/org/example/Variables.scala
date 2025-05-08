@@ -1,5 +1,7 @@
 package org.example
 
+import scala.collection
+
 object Variables {
   def main(args: Array[String]): Unit = {
 
